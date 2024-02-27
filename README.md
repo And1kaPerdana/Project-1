@@ -8,3 +8,4 @@ Course completion of The Art of Prompt Engineering Using LLM from CognitiveClass
 ## Mentee Info
 ### Name    : Andika Perdana
 ### Program : IBM Advance AI
+### Mentor  : Agistira Lamunde
